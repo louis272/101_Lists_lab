@@ -9,7 +9,7 @@
 
 # ISC 101.2 OOP
 
-## Lab 15 - Linked list using recursive data structures
+## Lab 15 - Linked list using recursive data structures in Scala
 
 In this lab, you will develop a recursive linked list manipulation class. Among others, you will : 
 
